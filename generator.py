@@ -2,7 +2,7 @@ import os
 import time
 import json
 import random
-from colorfy import color
+from pyreqs3 import color
 import base64
 import threading
 import re
